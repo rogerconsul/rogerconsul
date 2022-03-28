@@ -1,16 +1,24 @@
-### Hi there 👋
+### Hello World :v:
 
-<!--
-**rogerconsul/rogerconsul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+:small_blue_diamond: My name is **Róger** and I'm studying Web Development at ![Trybe](https://www.betrybe.com/);
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+ <a href="https://github.com/rogerconsul">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=rogerconsul&count_private=true&show_icons=true&theme=dracula" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4BRALL&theme=dracula&layout=compact" />
+</a>
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="L-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="L-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
+  <img align="center" alt="L-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="L-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="L-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
+  <img align="center" alt="L-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
+</div>
+
+##
+
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerconsul/)](https://www.linkedin.com/in/rogerconsul/)
+## 
