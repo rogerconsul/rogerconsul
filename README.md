@@ -1,7 +1,7 @@
 ### Hello World :v:
 
 
-:small_blue_diamond: My name is **Róger** and I'm studying Web Development at ![Trybe](https://www.betrybe.com/);
+:small_blue_diamond: My name is **Róger** and I'm studying Web Development at [Trybe](https://www.betrybe.com/);
 
 
  <a href="https://github.com/rogerconsul">
