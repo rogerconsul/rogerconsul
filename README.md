@@ -23,6 +23,6 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/rogerconsul/)](https://www.linkedin.com/in/rogerconsul/)
 
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rogerconsul@yahoo.com.br)
+[![Mail Badge](https://img.shields.io/badge/email-D14836?style=for-the-badge&logo=mail&logoColor=white)](mailto:rogerconsul@yahoo.com.br)
  
 ## 
