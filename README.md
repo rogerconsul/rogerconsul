@@ -11,16 +11,11 @@
 
 <div style="display: inline_block"><br>
   <h2>My skills:</h2>
-  <img align="center" alt="L-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="L-Jest" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jest/jest-plain.svg">
-  <img align="center" alt="L-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="L-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="L-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
-  <img align="center" alt="L-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg">
-  <img align="center" alt="L-Git" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg">
-  <img align="center" alt="L-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/Docker.svg">
-  <img align="center" alt="L-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/MySQL-Dark.svg">
-  <img align="center" alt="L-Git" height="30" width="40" src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Dark.svg">
+  <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,git,ts,nodejs,docker,bash,mysql,react,jest,linux" />
+  </a>
+</p>
 </div>
 
 ##
